@@ -1,0 +1,4 @@
+Flask
+cs50
+Werkzeug
+requests
